@@ -1,5 +1,4 @@
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Iftiar+Rafi" />
 </p>
 
@@ -65,88 +64,7 @@
 </p>
 ---
 
-## 🚀 Featured Projects
 
-### 🔥 Microservice E-commerce Backend
-📦 Scalable event-driven architecture with Kafka  
-🐳 Fully Dockerized system  
-
-🔗 https://github.com/iftiarrafi/microservice-ecommerce-backend
-
-**Tech:** Express, Kafka, Docker, Rate Limiting  
-**Highlights:**
-- Microservices-based design
-- Async communication via Kafka
-- Secure & scalable APIs
-
----
-
-### 🎨 TrueCanvas (AI + MERN)
-🚫 Detects & blocks AI-generated images  
-🧠 Vision Transformer (ViT) powered  
-
-🔗 https://github.com/iftiarrafi/True-Canvas
-
-**Tech:** MERN, Flask, PyTorch, Redux  
-**Highlights:**
-- AI moderation system
-- JWT auth + Cloudinary
-- Real-world production architecture
-
----
-
-### 💬 Echo – Real-time Chat App
-⚡ Lightning-fast real-time messaging  
-🔐 Secure JWT authentication  
-
-🔗 https://github.com/iftiarrafi/Echo-ChatApp
-
-**Tech:** MERN, Socket.io, Tailwind  
-**Highlights:**
-- Persistent chat system
-- Clean UI + real-time sync
-- Scalable backend
-
----
-
-### 🎵 Musico – Band Platform
-🎤 Connect users with musicians  
-💳 Stripe-powered ticketing  
-
-🔗 https://github.com/iftiarrafi/Musico
-
-**Tech:** MERN, Redux Toolkit, Stripe  
-**Highlights:**
-- Event & ticket system
-- Admin dashboard
-- Chat + subscriptions
-
----
-
-## 🤖 AI Projects
-
-### 🖼️ True Art (AI Image Detector)
-🔍 Detect AI vs real images instantly  
-
-🔗 https://github.com/iftiarrafi/AI-generated-art-checker
-
-**Tech:** Flask, PyTorch, Next.js  
-- ViT-based classification
-- Clean UI + fast inference
-
----
-
-### 📄 PDF RAG Chatbot
-💬 Ask questions from PDFs  
-
-🔗 https://github.com/iftiarrafi/PDF-RAG-Bot
-
-**Tech:** LangChain, Streamlit, Groq LLM  
-- Retrieval-Augmented Generation
-- Vector search pipeline
-- Context-aware responses
-
----
 
 ## 📊 Coding & Profiles
 
