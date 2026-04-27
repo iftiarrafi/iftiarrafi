@@ -49,8 +49,9 @@
 
 ### 🎨 UI
 `CSS` `Tailwind CSS` `ShadCN UI`
+<p>
 <img src="https://skillicons.dev/icons?i=css,tailwind" />
-
+</p>
 ---
 
 ## 🚀 Featured Projects
