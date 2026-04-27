@@ -23,17 +23,29 @@
 
 ### 💻 Languages
 `C++` `Python` `JavaScript` `TypeScript` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql" />
+</p>
 
 ### 🌐 Web & Backend
 `Node.js` `Express.js` `React.js` `Next.js`  
 `MongoDB` `Prisma ORM` `Nginx`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,nginx" />
+</p>
 
 ### ⚙️ Systems & Infra
 `Docker` `Kafka` `Redis` `Socket.io`
+<p>
+<img src="https://skillicons.dev/icons?i=docker,redis,kafka" />
+</p>
 
 ### 🤖 AI / ML
 `PyTorch` `OpenCV` `Scikit-learn`  
 `LangChain` `LangGraph` `RAG Pipelines`
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,langchain" />
+</p>
 
 ### 🎨 UI
 `Tailwind CSS` `ShadCN UI`
