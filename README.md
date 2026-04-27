@@ -22,16 +22,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`C++` `Python` `JavaScript` `TypeScript` `SQL`
+`C` `C++` `Python` `JavaScript` `TypeScript` `SQL`
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql" />
 </p>
 
 ### 🌐 Web & Backend
 `Node.js` `Express.js` `React.js` `Next.js`  
 `MongoDB` `Prisma ORM` `Nginx`
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,nginx" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,html,react,nextjs,mongodb,nginx,prisma,postgres" />
 </p>
 
 ### ⚙️ Systems & Infra
@@ -48,7 +48,8 @@
 </p>
 
 ### 🎨 UI
-`Tailwind CSS` `ShadCN UI`
+`CSS` `Tailwind CSS` `ShadCN UI`
+<img src="https://skillicons.dev/icons?i=css,tailwind" />
 
 ---
 
