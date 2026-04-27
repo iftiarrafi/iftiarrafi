@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Md. Iftiar Rafi</h1>
-<h3 align="center">Full Stack Engineer • AI Builder • System Design Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Md.+Iftiar+Rafi" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B801&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+•+AI+Builder+•+System+Design+Enthusiast" />
+</p>
 
 <p align="center">
 🚀 Building scalable systems + AI-powered applications  
 ⚡ MERN | Microservices | Kafka | PyTorch | RAG Systems  
 🎯 Focused on real-world impact, performance & clean architecture  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
 
 ---
