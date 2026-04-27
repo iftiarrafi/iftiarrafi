@@ -1,15 +1,12 @@
-<p align="center">
+procastination 24/7
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Iftiar+Rafi" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B801&center=true&vCenter=true&width=900&lines=Wannabe+Full+Stack+Engineer+|+AI+Builder+|+System+Design+Enthusiast" />
 </p>
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iftiarrafi/iftiarrafi/output/snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
 🚀 Building scalable systems + AI-powered applications  
@@ -183,4 +180,4 @@
 
 <p align="center">
 🔥 If you like my work, consider giving a star ⭐ to my repositories!
-</p>
+</p> -->
