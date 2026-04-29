@@ -22,7 +22,7 @@
 
 <p align="center">
 🎓 CSE @ RUET (2022–2026)<br/>
-🧩 Strong in <b>System Design + Backend Engineering</b><br/>
+🧩 Strong in <b>System Design + Backend Engineering(NodeJs)</b><br/>
 🤖 Exploring <b>AI + LLM + Computer Vision</b><br/>
 ⚡ Love building <b>production-grade full-stack apps</b><br/>
 🧪 Into <b>real-time systems, distributed architecture, and ML pipelines</b>
