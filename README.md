@@ -33,7 +33,7 @@
 
 ### 💻 Languages
 `C` `C++` `Python` `JavaScript` `TypeScript` `SQL`
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql" />
 </p>
 
