@@ -8,7 +8,7 @@
 
 <p align="center">
 🚀 Building scalable systems + AI-powered applications<br/>
-⚡ MERN | Microservices | Kafka | Redis | PyTorch | RAG Systems<br/>
+⚡ MERN Stack | Deep Learning  | RAG Systems<br/>
 🎯 Focused on real-world impact, performance & clean architecture
 </p>
 
