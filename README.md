@@ -22,8 +22,8 @@
 
 <p align="center">
  CSE @ RUET (2022–2026)<br/>
- Strong in <b>System Design + Backend Engineering(NodeJs)</b><br/>
- Exploring <b>AI + LLM + Computer Vision</b><br/>
+ Mastering <b>System Design + Backend Engineering(NodeJs) + Agentic AI</b><br/>
+ Exploring <b>NLP + CV + Audio Processing</b><br/>
  Love building <b>production-grade full-stack apps</b><br/>
  Into <b>real-time systems, distributed architecture, and ML pipelines</b>
 </p>
@@ -43,7 +43,7 @@
 <h3 align="center"> Web & Backend</h3>
 <p align="center">
 <code>Node.js</code> <code>Express.js</code> <code>React.js</code> <code>Next.js</code><br/>
-<code>MongoDB</code> <code>Prisma ORM</code> <code>Nginx</code>
+<code>MongoDB</code> <code>PostgreSQL</code> <code>Nginx</code>
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,html,react,nextjs,mongodb,nginx,prisma,postgres" />
