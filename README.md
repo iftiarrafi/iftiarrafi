@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-me-two-fawn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="mailto:iftiarrafi@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-iftiar-rafi-932b1527b/"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/serjonsnow/"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=flat-square&logo=leetcode&logoColor=white" /></a>
