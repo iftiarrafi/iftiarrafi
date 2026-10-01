@@ -1,119 +1,64 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Iftiar+Rafi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Md.+Iftiar+Rafi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B801&center=true&vCenter=true&width=900&lines=Wannabe+Full+Stack+Engineer+|+AI+Builder+|+System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B801&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems+%7C+Deep+Learning+%7C+Full-Stack+Engineering" />
 </p>
 
 <p align="center">
-🚀 Building scalable systems + AI-powered applications<br/>
-⚡ MERN Stack | Deep Learning  | RAG Systems<br/>
-🎯 Focused on real-world impact, performance & clean architecture
+  CSE graduate from RUET · Dhaka, Bangladesh<br/>
+  Building computer vision models, RAG pipelines, and scalable microservices.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+  <a href="mailto:iftiarrafi@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-iftiar-rafi-932b1527b/"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/serjonsnow/"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/mdiftiarrafi"><img src="https://img.shields.io/badge/Kaggle-0f2027?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 
-<h2 align="center">About Me</h2>
+## Tech Stack
 
 <p align="center">
- CSE @ RUET (2022–2026)<br/>
- Mastering <b>System Design + Backend Engineering(NodeJs) + Agentic AI</b><br/>
- Exploring <b>NLP + CV + Audio Processing</b><br/>
- Love building <b>production-grade full-stack apps</b><br/>
- Into <b>real-time systems, distributed architecture, and ML pipelines</b>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,postgres,mysql&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&perline=5" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,flask,mongodb,tailwind&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,redis,kafka,nginx,githubactions&perline=5" />
 </p>
-
----
-
-<h2 align="center"> Tech Stack</h2>
-
-<h3 align="center"> Languages</h3>
-<p align="center">
-<code>C</code> <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>SQL</code>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql" />
-</p>
-
-<h3 align="center"> Web & Backend</h3>
-<p align="center">
-<code>Node.js</code> <code>Express.js</code> <code>React.js</code> <code>Next.js</code><br/>
-<code>MongoDB</code> <code>PostgreSQL</code> <code>Nginx</code>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,html,react,nextjs,mongodb,nginx,prisma,postgres" />
-</p>
-
-<h3 align="center"> Systems & Infra</h3>
-<p align="center">
-<code>Docker</code> <code>Kafka</code> <code>Redis</code> <code>Socket.io</code>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,redis,kafka" />
-</p>
-
-<h3 align="center"> AI / ML</h3>
-<p align="center">
-<code>PyTorch</code> <code>OpenCV</code> <code>Scikit-learn</code><br/>
-<code>LangChain</code> <code>LangGraph</code> <code>RAG Pipelines</code>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
-
-<h3 align="center"> UI</h3>
-<p align="center">
-<code>CSS</code> <code>Tailwind CSS</code> <code>ShadCN UI</code>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=css,tailwind" />
-</p>
-
----
-
-<h2 align="center">Coding & Profiles</h2>
 
 <p align="center">
- <b>LeetCode:</b> <a href="https://leetcode.com/u/serjonsnow/">serjonsnow</a><br/>
- <b>Kaggle:</b> <a href="https://www.kaggle.com/mdiftiarrafi">mdiftiarrafi</a><br/>
- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/md-iftiar-rafi-932b1527b/">Md. Iftiar Rafi</a><br/>
- <b>GitHub:</b> <a href="https://github.com/iftiarrafi">iftiarrafi</a>
+  <sub>Also: LangChain · LangGraph · Scikit-learn · Librosa · Socket.io</sub>
 </p>
 
----
+## Research
 
-<h2 align="center"> What I'm Currently Doing</h2>
+**Acoustic Musical Instrument Recognition with Log-Mel Spectrogram-Based 2D CNNs**
+ICCIT 2026 — *submitted / under review*
 
-<p align="center">
- Learning advanced <b>System Design</b><br/>
- Building <b>AI + Fullstack hybrid apps</b><br/>
- Improving <b>Microservices & Distributed Systems</b><br/>
- Preparing for <b>top-tier SWE / AI roles</b>
-</p>
+4-block 2D CNN on 128 × 128 Log-Mel spectrograms. **93.61%** test accuracy on a balanced 7,200-sample dataset, outperforming baselines by over 19%.
 
----
+## Projects
 
-<h2 align="center"> Philosophy</h2>
+| Project | Stack | Description |
+|---|---|---|
+| **SQL AI Agent** | Python, LangGraph, LangChain | Graph-based SQL analyst with automated safety validation and conditional routing before execution |
+| **TrueCanvas** | MERN, PyTorch, Redis, Flask | Art sharing platform with a fine-tuned ViT that classifies human vs. AI-generated artwork |
+| **Multi-Agent Blog Generator** | LangGraph, LangChain, Groq | Research, Writer, and Editor agents with human-in-the-loop review |
+| **PDF Chat Bot** | LangChain, Streamlit, Groq | RAG chatbot for context-grounded Q&A over PDFs |
+| **Microservice E-Commerce** | Express.js, Kafka, Docker | Event-driven microservices backend with rate limiting |
+| **Echo** | Node.js, Socket.io, Redis | Real-time chat app with JWT auth and Redis caching |
+| **Musico** | MERN, Redux Toolkit | Platform connecting fans with band members, with Stripe payments and an admin dashboard |
 
-<p align="center">
-<i>"Build real systems. Solve real problems. Keep it clean & scalable."</i>
-</p>
+## Achievements
 
----
+- **HackSpark – Intra RUET Hackathon 2026:** Top 10 finalist among 41 teams
+- **NASA International Space Apps Challenge 2025:** "The Galactic Problem Solver" for *Asteroid Odyssey*
+- **LeetCode:** 180+ problems solved
 
-<h2 align="center">Contact Me</h2>
+## Experience
 
-<p align="center">
-<b>Email:</b> <a href="mailto:iftiarrafi@gmail.com">iftiarrafi@gmail.com</a>
-</p>
-
----
-
-<p align="center">
- If you like my work, consider giving a star ⭐ to my repositories!
-</p>
+- **Content and Media Secretary**, RUET Computing Society (2025–2026)
+- **Promotion Secretary**, Onuronon Cultural Club, RUET (2025–2026)
