@@ -34,13 +34,6 @@
   <sub>Also: LangChain · LangGraph · DeepEval · Scikit-learn · Librosa · Socket.io</sub>
 </p>
 
-## Research
-
-**Acoustic Musical Instrument Recognition with Log-Mel Spectrogram-Based 2D CNNs**
-ICCIT 2026 — *submitted / under review*
-
-4-block 2D CNN on 128 × 128 Log-Mel spectrograms. **93.61%** test accuracy on a balanced 7,200-sample dataset, outperforming baselines by over 19%.
-
 ## Projects
 
 | Project | Stack | Description |
@@ -53,6 +46,13 @@ ICCIT 2026 — *submitted / under review*
 | **Microservice E-Commerce** | Express.js, Kafka, Docker | Event-driven microservices backend with rate limiting |
 | **Echo** | Node.js, Socket.io, Redis | Real-time chat app with JWT auth and Redis caching |
 | **Musico** | MERN, Redux Toolkit | Platform connecting fans with band members, with Stripe payments and an admin dashboard |
+
+## Research
+
+**Acoustic Musical Instrument Recognition with Log-Mel Spectrogram-Based 2D CNNs**
+ICCIT 2026 — *submitted / under review*
+
+4-block 2D CNN on 128 × 128 Log-Mel spectrograms. **93.61%** test accuracy on a balanced 7,200-sample dataset, outperforming baselines by over 19%.
 
 ## Achievements
 
