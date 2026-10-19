@@ -58,7 +58,6 @@ ICCIT 2026 — *submitted / under review*
 
 - **HackSpark – Intra RUET Hackathon 2026:** Top 10 finalist among 41 teams
 - **NASA International Space Apps Challenge 2025:** "The Galactic Problem Solver" for *Asteroid Odyssey*
-- **LeetCode:** 180+ problems solved
 
 ## Experience
 
