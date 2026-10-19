@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <sub>Also: LangChain · LangGraph · Scikit-learn · Librosa · Socket.io</sub>
+  <sub>Also: LangChain · LangGraph · DeepEval · Scikit-learn · Librosa · Socket.io</sub>
 </p>
 
 ## Research
@@ -48,7 +48,8 @@ ICCIT 2026 — *submitted / under review*
 | **SQL AI Agent** | Python, LangGraph, LangChain | Graph-based SQL analyst with automated safety validation and conditional routing before execution |
 | **TrueCanvas** | MERN, PyTorch, Redis, Flask | Art sharing platform with a fine-tuned ViT that classifies human vs. AI-generated artwork |
 | **Multi-Agent Blog Generator** | LangGraph, LangChain, Groq | Research, Writer, and Editor agents with human-in-the-loop review |
-| **PDF Chat Bot** | LangChain, Streamlit, Groq | RAG chatbot for context-grounded Q&A over PDFs |
+| **Rag Evaluation Sytem** | DeepEval, LangChain, Groq | Evaluates Rag system based on Faithfulness , Answer Relevancy , Context Relevancy , Answer Correctness |
+| **Rag PDF Chat Bot** | LangChain, Streamlit, Groq | RAG chatbot for context-grounded Q&A over PDFs |
 | **Microservice E-Commerce** | Express.js, Kafka, Docker | Event-driven microservices backend with rate limiting |
 | **Echo** | Node.js, Socket.io, Redis | Real-time chat app with JWT auth and Redis caching |
 | **Musico** | MERN, Redux Toolkit | Platform connecting fans with band members, with Stripe payments and an admin dashboard |
